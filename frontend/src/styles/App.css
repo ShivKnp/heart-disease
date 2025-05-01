@@ -1,0 +1,4 @@
+/* You can keep this file for any global styles that aren't covered by Tailwind */
+body {
+    @apply bg-gray-50;
+  }

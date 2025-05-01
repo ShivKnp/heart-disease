@@ -1,0 +1,5 @@
+
+Model Performance Notes:
+- All models were trained on the Cleveland Heart Disease dataset (303 patients)
+- Evaluation metrics are based on a 20% held-out test set
+- Random Forest was selected as the primary model due to highest ROC AUC
